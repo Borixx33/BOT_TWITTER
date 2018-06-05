@@ -1,0 +1,12 @@
+c:\users\paul\source\repos\tweetbotClasses\tweetbotClasses\bin\Debug\netcoreapp2.0\tweetbotClasses.deps.json
+c:\users\paul\source\repos\tweetbotClasses\tweetbotClasses\bin\Debug\netcoreapp2.0\tweetbotClasses.runtimeconfig.json
+c:\users\paul\source\repos\tweetbotClasses\tweetbotClasses\bin\Debug\netcoreapp2.0\tweetbotClasses.runtimeconfig.dev.json
+c:\users\paul\source\repos\tweetbotClasses\tweetbotClasses\bin\Debug\netcoreapp2.0\tweetbotClasses.dll
+c:\users\paul\source\repos\tweetbotClasses\tweetbotClasses\obj\Debug\netcoreapp2.0\tweetbotClasses.csproj.CoreCompileInputs.cache
+c:\users\paul\source\repos\tweetbotClasses\tweetbotClasses\obj\Debug\netcoreapp2.0\tweetbotClasses.AssemblyInfoInputs.cache
+c:\users\paul\source\repos\tweetbotClasses\tweetbotClasses\obj\Debug\netcoreapp2.0\tweetbotClasses.AssemblyInfo.cs
+c:\users\paul\source\repos\tweetbotClasses\tweetbotClasses\obj\Debug\netcoreapp2.0\tweetbotClasses.csprojAssemblyReference.cache
+c:\users\paul\source\repos\tweetbotClasses\tweetbotClasses\bin\Debug\netcoreapp2.0\tweetbotClasses.pdb
+c:\users\paul\source\repos\tweetbotClasses\tweetbotClasses\obj\Debug\netcoreapp2.0\tweetbotClasses.dll
+c:\users\paul\source\repos\tweetbotClasses\tweetbotClasses\obj\Debug\netcoreapp2.0\tweetbotClasses.pdb
+C:\Users\paul\source\repos\tweetbotClasses\tweetbotClasses\bin\Debug\netcoreapp2.0\appSettings.json
