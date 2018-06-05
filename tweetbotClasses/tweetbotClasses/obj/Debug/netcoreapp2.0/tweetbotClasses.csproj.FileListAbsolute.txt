@@ -10,3 +10,15 @@ c:\users\paul\source\repos\tweetbotClasses\tweetbotClasses\bin\Debug\netcoreapp2
 c:\users\paul\source\repos\tweetbotClasses\tweetbotClasses\obj\Debug\netcoreapp2.0\tweetbotClasses.dll
 c:\users\paul\source\repos\tweetbotClasses\tweetbotClasses\obj\Debug\netcoreapp2.0\tweetbotClasses.pdb
 C:\Users\paul\source\repos\tweetbotClasses\tweetbotClasses\bin\Debug\netcoreapp2.0\appSettings.json
+C:\Users\tener\Desktop\BOT_TWITTER\tweetbotClasses\tweetbotClasses\bin\Debug\netcoreapp2.0\appSettings.json
+C:\Users\tener\Desktop\BOT_TWITTER\tweetbotClasses\tweetbotClasses\bin\Debug\netcoreapp2.0\tweetbotClasses.deps.json
+C:\Users\tener\Desktop\BOT_TWITTER\tweetbotClasses\tweetbotClasses\bin\Debug\netcoreapp2.0\tweetbotClasses.runtimeconfig.json
+C:\Users\tener\Desktop\BOT_TWITTER\tweetbotClasses\tweetbotClasses\bin\Debug\netcoreapp2.0\tweetbotClasses.runtimeconfig.dev.json
+C:\Users\tener\Desktop\BOT_TWITTER\tweetbotClasses\tweetbotClasses\bin\Debug\netcoreapp2.0\tweetbotClasses.dll
+C:\Users\tener\Desktop\BOT_TWITTER\tweetbotClasses\tweetbotClasses\bin\Debug\netcoreapp2.0\tweetbotClasses.pdb
+C:\Users\tener\Desktop\BOT_TWITTER\tweetbotClasses\tweetbotClasses\obj\Debug\netcoreapp2.0\tweetbotClasses.csprojResolveAssemblyReference.cache
+C:\Users\tener\Desktop\BOT_TWITTER\tweetbotClasses\tweetbotClasses\obj\Debug\netcoreapp2.0\tweetbotClasses.csproj.CoreCompileInputs.cache
+C:\Users\tener\Desktop\BOT_TWITTER\tweetbotClasses\tweetbotClasses\obj\Debug\netcoreapp2.0\tweetbotClasses.AssemblyInfoInputs.cache
+C:\Users\tener\Desktop\BOT_TWITTER\tweetbotClasses\tweetbotClasses\obj\Debug\netcoreapp2.0\tweetbotClasses.AssemblyInfo.cs
+C:\Users\tener\Desktop\BOT_TWITTER\tweetbotClasses\tweetbotClasses\obj\Debug\netcoreapp2.0\tweetbotClasses.dll
+C:\Users\tener\Desktop\BOT_TWITTER\tweetbotClasses\tweetbotClasses\obj\Debug\netcoreapp2.0\tweetbotClasses.pdb

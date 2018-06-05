@@ -3927,23 +3927,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\paul\\.nuget\\packages\\": {},
+    "C:\\Users\\tener\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\paul\\source\\repos\\tweetbotClasses\\tweetbotClasses\\tweetbotClasses.csproj",
+      "projectUniqueName": "C:\\Users\\tener\\Desktop\\BOT_TWITTER\\tweetbotClasses\\tweetbotClasses\\tweetbotClasses.csproj",
       "projectName": "tweetbotClasses",
-      "projectPath": "C:\\Users\\paul\\source\\repos\\tweetbotClasses\\tweetbotClasses\\tweetbotClasses.csproj",
-      "packagesPath": "C:\\Users\\paul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paul\\source\\repos\\tweetbotClasses\\tweetbotClasses\\obj\\",
+      "projectPath": "C:\\Users\\tener\\Desktop\\BOT_TWITTER\\tweetbotClasses\\tweetbotClasses\\tweetbotClasses.csproj",
+      "packagesPath": "C:\\Users\\tener\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tener\\Desktop\\BOT_TWITTER\\tweetbotClasses\\tweetbotClasses\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\paul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tener\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
